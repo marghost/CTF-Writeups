@@ -1,6 +1,6 @@
 # Hackfest Beginner CTF 2022
 
-Writeup for Hackfest 2022 - Resurrection Edition Beginner CTF: [Hackfest CTF Website](https://hfctf.ca/)
+Writeup for Hackfest 2022 - Resurrection Edition Beginner CTF: [Hackfest CTF](https://hfctf.ca/)
 
 ## Tracks
 

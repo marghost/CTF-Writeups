@@ -1,7 +1,7 @@
-# Hackfest Beginner CTF 2022 – AWS Track
+# Beginner - AWS (by dax)
 
-* **Category:** category
-* **Points:** points
+* **Category:** AWS
+* **Points:** 2
 
 ## Challenge
 
