@@ -17,6 +17,12 @@ Writeup for Hackfest 2022 - Resurrection Edition Beginner CTF: [Hackfest CTF](ht
    - [ ] 10 - AWS login (10)
 
 - Beginner - Cipher (by Viper)
-   - [ ] [Base64 (2)](<link_to_writeup>)
-   - [ ] [Julius(3)](<link_to_writeup>)
+   - [x] [Base64 (2)](https://github.com/marghost/CTF-Writeups/blob/main/Hackfest-Beginner-CTF-2022/Cipher.md#Base64)
+   - [x] [Julius (3)](https://github.com/marghost/CTF-Writeups/blob/main/Hackfest-Beginner-CTF-2022/Cipher.md#Julius)
    
+- Beginner - Hash (by Viper)
+   - [x] [LM (5)](<link_to_writeup>)
+   - [x] [MD5 (5)](<link_to_writeup>)
+   - [x] [NTLM (5)](<link_to_writeup>)
+   - [x] [SHA1 (6)](<link_to_writeup>)
+
