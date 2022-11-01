@@ -5,7 +5,7 @@ Writeup for Hackfest 2022 - Resurrection Edition Beginner CTF: [Hackfest CTF](ht
 ## Tracks
 
 - Beginner - AWS (by dax)
-   - [ ] [01 - AWS whoami (2)](<link_to_writeup>)
+   - [x] [01 - AWS whoami (5)](<link_to_writeup>)
    - [ ] [02 - AWS cat mysecrets.txt (6](<link_to_writeup>)
    
 - Beginner - Cipher (by Viper)
