@@ -1,6 +1,6 @@
-# <CTF_NAME> CTF
+# <CTF_NAME>
 
-Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
+Writeups for <CTF_NAME> CTF : [website_name](<http://www.ctflink.com>)
 
 ## Categories
 
