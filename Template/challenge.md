@@ -1,6 +1,6 @@
 # CTF Name – Challenge Name
 
-* **Category:** category
+* **Track:** category
 * **Points:** points
 
 ## Challenge
