@@ -36,9 +36,9 @@ Writeup for Hackfest 2022 - Resurrection Edition Beginner CTF: [Hackfest CTF](ht
    
 - Beginner - SQL (dax)
    - [x] [1 - The Most Basic Form of Injection.  (3)](<link_to_writeup>)
-   - [x] [2 - Get the root user.  (4)
-   - [x] [3 - There is Another User...  (5)
-   - [x] [4 - What About a Random ID?  (6)
+   - [ ] 2 - Get the root user.  (4)
+   - [ ] 3 - There is Another User...  (5)
+   - [ ] 4 - What About a Random ID?  (6)
 
 - Beginner - Steganography (dax)
    - [x] [1 - Encrypted (5)](<link_to_writeup>)
