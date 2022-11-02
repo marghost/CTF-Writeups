@@ -65,6 +65,3 @@ Writeup for Hackfest 2022 - Resurrection Edition Beginner CTF: [Hackfest CTF](ht
    - [ ] 04 - Private Share (10)
    - [ ] 05 - Workstation Admin (15)
    - [ ] 06 - Domain Admin (25)
-
-
-
