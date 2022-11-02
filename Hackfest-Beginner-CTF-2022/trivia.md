@@ -1,30 +1,49 @@
-# Challenge Track
+# Beginner - Trivia (by Viper)
 
-## Challenge Name
+## Ports
 
-* **Track:** category
-* **Points:** points
+* **Track:** trivia
+* **Points:** 2
 
 ### Challenge
 
-> The text of 
-> the challenge.
-
-### Solution
-
-The solution.
-    Code
-
-### Tool
-
-* 
-
-### Doc
-
-* https://
+> How many TCP ports can be open at the same time?
 
 ### Flag
 
 ```
-The flag.
+65535
 ```
+
+## Movie
+
+* **Track:** trivia
+* **Points:** 2
+
+### Challenge
+
+> What movie is this quote from?
+> Quote: Hack the Planet!
+
+### Flag
+
+```
+Hackers
+```
+
+## Personality
+
+* **Track:** trivia
+* **Points:** 2
+
+### Challenge
+
+> Probably the world most famous hacker. His business card can help you lockpick doors. Who is he?
+> Note: Answer with his full name.
+
+### Flag
+
+```
+Kevin Mitnick
+```
+
