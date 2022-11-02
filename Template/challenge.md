@@ -7,7 +7,7 @@
 
 ### Challenge
 
-> The text of 
+> The text of
 > the challenge.
 
 ### Solution
